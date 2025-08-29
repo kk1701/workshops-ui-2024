@@ -126,7 +126,7 @@ body {
 }
 
 .workshop-div {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .title {
@@ -169,7 +169,6 @@ body {
   color: #2c2c51;
   padding: 2rem 0 0 2rem;
 }
-
 
 @media (max-width: 600px) {
   .workshop-content p {
